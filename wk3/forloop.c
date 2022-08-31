@@ -2,7 +2,7 @@
 #include <math.h>
 
 /* count blanks , digits, and total characters */
-
+//This programme output is blank, don't know what's wrong
 int main() 
 {
     int blanks = 0 , digits = 0 , total_chars = 0;
